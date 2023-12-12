@@ -1,0 +1,21 @@
+
+.x{
+    width: 300px;
+}
+
+#box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+#reset1{
+    position: relative;
+    left: 62%;
+}
+
+#submit{
+    position: relative;
+    left: 64%;
+}
+
